@@ -4,7 +4,7 @@
 This project is a semantic HTML technical report focused on renewable energy trends and performance in 2026. The webpage demonstrates proper HTML structure, accessibility practices, and SEO-friendly content organization.
 
 The report includes:
-- Semantic HTML5 layout
+- Semantic HTML layout
 - Internal navigation links
 - A structured table of contents
 - Renewable energy data tables
@@ -54,23 +54,23 @@ project-folder/
 
 The report compares renewable energy sources using:
 
--Efficiency percentages
--2025 growth projections
--Energy Sources
- Solar
- Wind
+* Efficiency percentages
+* 2025 growth projections
+* Energy Sources; 
+ Solar,
+ Wind,
  Geothermal
 
 ## Learning Objectives
 
 This project demonstrates understanding of:
 
--Semantic HTML
--Accessibility best practices
--SEO-friendly page structure
--Internal page linking
--HTML tables and captions
--Ordered and unordered lists
+* Semantic HTML
+* Accessibility best practices
+* SEO-friendly page structure
+* Internal page linking
+* HTML tables and captions
+* Ordered and unordered lists
 
 ## How to Run the Project
 -Download or clone the project files.
